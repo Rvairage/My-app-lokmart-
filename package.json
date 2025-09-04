@@ -1,0 +1,12 @@
+{
+  "name": "my-app-lokmart",
+  "version": "1.0.0",
+  "description": "This is my first Lokmart app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
